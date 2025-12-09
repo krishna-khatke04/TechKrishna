@@ -1,0 +1,45 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 9 Dec 2025, 10:21:12 am
+    Author     : HP
+*/
+
+
+.login-box {
+    background: rgba(255, 255, 255, 0.10); /* Transparent */
+    backdrop-filter: blur(10px);           /* Glass effect */
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}
+
+.input-style {
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+    color: #fff;
+}
+
+.input-style:focus {
+    outline: none;
+    box-shadow: 0 0 10px #0d6efd;
+    background: rgba(255, 255, 255, 0.35);
+    color: #fff;
+}
+
+.form-label {
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.btn-primary {
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+.btn-outline-primary, .btn-outline-secondary {
+    border-radius: 8px;
+    font-weight: 600;
+}

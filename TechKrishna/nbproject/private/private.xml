@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/profile.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/entity/Categories.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/entity/Post.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/dao/UserDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/dao/PostDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/servlets/RegistreServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/entity/User.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/load_posts.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/show_posts.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/img/bg.jpg</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/img/default.jpg</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/img/error.png</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/entity/Messege.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/Login.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/helper/MyConnector.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/src/java/com/krishna/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/Register.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/css/login.css</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/TechKrishna/web/normal_navbar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
